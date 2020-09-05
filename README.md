@@ -1,6 +1,7 @@
 # node.js-to-convert-to-a-pdf-file
 how to convert a PDF using node.js
-# Continue learning to get the react small project and working with the Front-End and Back end of this project to get a success convertor to the pdf.
+# React 
+Continue learning to get the react small project and working with the Front-End and Back end of this project to get a success convertor to the pdf.
 
 For this particular example, we are going to create a simple receipt that will have dynamic data coming from React’s state object.
 
@@ -24,3 +25,6 @@ Add proxy inside of client/package.json, above the dependencies, simply add “p
 
 Open two different terminals: First one: go into the client directory and run npm start
 Second one: go into the server directory and run nodemon index.js
+
+# finally 
+convertion document to PDF
