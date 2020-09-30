@@ -1,6 +1,6 @@
 # node.js-to-convert-to-a-pdf-file
 how to convert a PDF using node.js
-# React 
+# Node.js using the JavaScript code
 Continue learning to get the react small project and working with the Front-End and Back end of this project to get a success convertor to the pdf.
 
 For this particular example, we are going to create a simple receipt that will have dynamic data coming from React’s state object.
