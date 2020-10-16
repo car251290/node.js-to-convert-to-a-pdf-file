@@ -27,4 +27,4 @@ Open two different terminals: First one: go into the client directory and run np
 Second one: go into the server directory and run nodemon index.js
 
 # finally 
-convertion document to PDF
+convertion document to add it to a PDF
