@@ -15,7 +15,7 @@ create-react-app client
 and then move into newly created directory and install dependencies
 cd client && npm i -S axios file-saver
 
-Create an Express server with 
+# Create an Express server with 
 mkdir server && cd server && touch index.js && npm init
 
 press enter a couple of times to initialize package.json and then run
@@ -27,4 +27,4 @@ Open two different terminals: First one: go into the client directory and run np
 Second one: go into the server directory and run nodemon index.js
 
 # finally 
-convertion document to add it to a PDF
+Convertion document to add it to a PDF 
